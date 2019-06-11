@@ -1,0 +1,11 @@
+email: nicole73711@gmail.com
+fullname: 'Alejandra Montenegro'
+title: Administrador
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$2MfKyXkJ1H47NfewpO42Q.zD94uXU2jnt2Qbq/Ws/VsnmS4OPd2lG
